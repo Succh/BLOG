@@ -1,2 +1,22 @@
 # BLOG
 在lssues建了博客
+# 空博客
+频道主要分享一些个人喜欢的。
+
+## 目录
+
+* [科学上网](https://github.com/Succh/BLOG/issues/1)
+* [软件分享](https://github.com/Succh/BLOG/issues/2)
+
+
+
+## 订阅频道
+您可以订阅我下面的频道，可以随时收到最新内容
+* [Bilibili 哔哩哔哩](https://space.bilibili.com/9187486)
+* [YouTube](https://www.youtube.com/channel/UCzUdYcR8YhvPIQKwAkzw0PQ)
+* [Github](https://github.com/Succh)
+
+## 捐赠
+
+如果教程对你有帮助，可以扫描以下二维码请我喝杯咖啡。*Thanks you very much*
+<div align=center><img src="donate.png" width = "300" div align=center />
