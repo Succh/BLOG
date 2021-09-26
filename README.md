@@ -5,8 +5,8 @@
 
 ## 目录
 
-* [科学上网](https://github.com/Succh/BLOG/issues/1)
-* [软件分享](https://github.com/Succh/BLOG/issues/2)
+* [科学上网](https://github.com/Succh/BLOG/labels/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E5%88%86%E4%BA%AB)
+* [软件分享](https://github.com/Succh/BLOG/labels/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB)
 
 
 
