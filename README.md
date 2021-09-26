@@ -1,4 +1,4 @@
-# [BLOG](https://github.com/Succh/BLOG)
+# [BLOG](https://github.com/Succh/BLOG/issues)
 在lssues建了博客
 # 空博客
 频道主要分享一些个人喜欢的。
