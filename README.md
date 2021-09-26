@@ -19,4 +19,4 @@
 ## 捐赠
 
 如果教程对你有帮助，可以扫描以下二维码请我喝杯咖啡。*Thanks you very much*
-<div align=center><img src="donate.png" width = "300" div align=center />
+<div align=center><img src="mmexport1625824730696.jpg" width = "300" div align=center />
