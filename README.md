@@ -1,4 +1,4 @@
-# BLOG
+# [BLOG](https://succh.github.io/BLOG/)
 在lssues建了博客
 # 空博客
 频道主要分享一些个人喜欢的。
