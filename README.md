@@ -1,13 +1,15 @@
 # [BLOG](https://github.com/Succh/BLOG/issues)
 在lssues建了博客
+
 # 空博客
 频道主要分享一些个人喜欢的。
+资源都从互联网收集。
 
 ## 目录
 
 * [科学上网](https://github.com/Succh/BLOG/labels/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E5%88%86%E4%BA%AB)
 * [软件分享](https://github.com/Succh/BLOG/labels/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB)
-
+* [教程](https://github.com/Succh/BLOG/labels/%E6%95%99%E7%A8%8B)
 
 
 ## 订阅频道
