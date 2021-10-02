@@ -10,7 +10,7 @@
 * [科学上网](https://github.com/Succh/BLOG/labels/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E5%88%86%E4%BA%AB)
 * [软件分享](https://github.com/Succh/BLOG/labels/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB)
 * [教程](https://github.com/Succh/BLOG/labels/%E6%95%99%E7%A8%8B)
-* [网站](https://github.com/Succh/BLOG/labels/%E7%BD%91%E7%AB%99)
+* [网站分享](https://github.com/Succh/BLOG/labels/%E7%BD%91%E7%AB%99)
 
 ## 订阅频道
 您可以订阅我下面的频道，可以随时收到最新内容
