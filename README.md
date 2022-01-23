@@ -14,8 +14,8 @@
 
 ## 订阅频道
 您可以订阅我下面的频道，不一定可以随时收到最新内容>_<
-* [Bilibili 哔哩哔哩](https://space.bilibili.com/9187486)
-* [YouTube](https://www.youtube.com/channel/UCzUdYcR8YhvPIQKwAkzw0PQ)
+* [QQ频道](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&inviteCode=1IAIHo&from=246610&biz=ka)
+主要在这里更新！！！
 * [Github](https://github.com/Succh)
 
 ## 捐赠
