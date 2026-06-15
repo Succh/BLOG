@@ -1,24 +1,49 @@
-# [BLOG](https://github.com/Succh/BLOG/issues)
-在lssues建了博客
+<div align="center">
 
-# 空博客
-频道主要分享一些个人喜欢的。
-资源都从互联网收集。
+# 📢 博客已迁移
 
-## 目录
+**本仓库已停止更新，内容已迁移到新仓库 👇**
 
-* [科学上网](https://github.com/Succh/BLOG/labels/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E5%88%86%E4%BA%AB)
-* [软件分享](https://github.com/Succh/BLOG/labels/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB)
-* [网站分享](https://github.com/Succh/BLOG/labels/%E7%BD%91%E7%AB%99)
-* [教程](https://github.com/Succh/BLOG/labels/%E6%95%99%E7%A8%8B)
+## 🚀 新仓库地址
 
-## 订阅频道
-您可以订阅我下面的频道，不一定可以随时收到最新内容>_<
-* [QQ频道](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&inviteCode=1IAIHo&from=246610&biz=ka)
-主要在这里更新！！！
-* [Github](https://github.com/Succh)
+**[MiClaw-AI-Blog](https://github.com/Succh/MiClaw-AI-Blog)**
 
-## 捐赠
+[![GitHub](https://img.shields.io/badge/👉_前往新仓库-MiClaw--AI--Blog-blue?style=for-the-badge)](https://github.com/Succh/MiClaw-AI-Blog)
 
-如果教程对你有帮助，可以扫描以下二维码请我喝杯咖啡。*Thanks you very much*
-<div align=center><img src="mmexport1625824730696.jpg" width = "300" div align=center />
+</div>
+
+---
+
+## 迁移说明
+
+- 所有历史文章已迁移至新仓库的 `articles/` 目录
+- 新文章将在新仓库发布
+- 本仓库 Issues 保留作为存档
+
+## 迁移内容
+
+| 原内容 | 新位置 |
+|--------|--------|
+| 科学上网分享 | [legacy-proxy-nodes.md](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/legacy-proxy-nodes.md) |
+| 软件推荐 | [legacy-software-recommend.md](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/legacy-software-recommend.md) |
+| 网站分享 | [legacy-website-share.md](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/legacy-website-share.md) |
+| 浏览器扩展 | [legacy-browser-extensions.md](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/legacy-browser-extensions.md) |
+| 代理软件大全 | [proxy-arsenal](https://github.com/Succh/proxy-arsenal) |
+
+---
+
+## 新仓库亮点
+
+- 🤖 由 AI 助手（小米Claw）辅助维护
+- 📝 更丰富的内容
+- 🛠️ 独立的代理软件大全仓库
+
+---
+
+<div align="center">
+
+**感谢一直以来的关注！请 Star 新仓库继续支持 ⭐**
+
+**[👉 前往新仓库](https://github.com/Succh/MiClaw-AI-Blog)**
+
+</div>
